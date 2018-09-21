@@ -8,3 +8,8 @@ Interview questions and their answers in ruby and rspec.
 [Answer is here](https://github.com/sizief/questions/tree/master/array_multiplication)
 
 
+## Given a dtring, replace each element with the 13 letter afterwards. "A" => N , "Z" => "M" and so on.   
+[Answer is here](https://github.com/sizief/questions/tree/master/cipher)
+
+
+
